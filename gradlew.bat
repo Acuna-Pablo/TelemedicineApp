@@ -82,3 +82,4 @@ exit /b 1
 if "%OS%"=="Windows_NT" endlocal
 
 :omega
+//Hi This this the project app for Telemedicine//
